@@ -1,6 +1,6 @@
 README
 
-Shiven S. Patel
+Shiven S. Patel,
 Purdue University
 
 Repository Includes:
